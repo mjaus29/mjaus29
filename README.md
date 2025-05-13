@@ -9,7 +9,7 @@
 - 🤝 **Freelance Solution Architect**: Delivered end-to-end solutions for clients across various industries, from concept to deployment, ensuring high-quality code and exceptional user experiences.
 - 🤖 **AI Integration Specialist**: Specialized in developing AI-driven applications that streamline business processes and enhance decision-making capabilities.
 
-🌱 **I’m currently learning advanced backend development with Next.js, with a focus on AI integration.**
+🌱 **I’m currently learning advanced backend development with a focus on AI integration.**
 
 👯 **I’m looking to collaborate on open-source and commercial projects, especially in AI, SaaS, and real-time applications.**
 
