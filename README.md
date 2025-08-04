@@ -96,5 +96,6 @@ Let’s connect and create something amazing together! 🚀
 
 </div>
 
-
+<!--
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=mjaus29&theme=react-dark)
+-->
