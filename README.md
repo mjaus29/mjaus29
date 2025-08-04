@@ -2,7 +2,7 @@
 
 # Hi, I'm Mark Joshua Austria! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-💼 **I’m a Full-Stack Developer with expertise in creating impactful projects across various domains.**
+💼 **I’m a Frontend-Focused Full-Stack Developer with expertise in creating impactful projects across various domains.**
 
 - 🎨 **Frontend Development Specialist**: Developed visually stunning, responsive websites with modern UI/UX principles, interactive animations, and optimized performance using React, Next.js, and Tailwind CSS.
 - 🏗️ **Backend Architecture Engineer**: Built robust server-side applications with secure authentication, database management, and API integration using Next.js, TypeScript, and various cloud services.
