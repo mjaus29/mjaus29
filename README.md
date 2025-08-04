@@ -1,4 +1,4 @@
-[![Mark Joshua Austria](https://media.licdn.com/dms/image/v2/D5616AQGkGPzwF5mLDA/profile-displaybackgroundimage-shrink_350_1400/B56ZbIlQQkH0AY-/0/1747121932358?e=1752710400&v=beta&t=LX8ArjSTzOWp1VIyRZEgVz7R-l7qjeaE8I5-qoKVYxM)](https://www.markaustria.com)
+[![Mark Joshua Austria](https://media.licdn.com/dms/image/v2/D5616AQGkGPzwF5mLDA/profile-displaybackgroundimage-shrink_350_1400/B56ZbIlQQkH0AY-/0/1747121932358?e=1756944000&v=beta&t=DFkxMTz7c3MjNSbLlKvnLse_J8Jlz8e-4_XmYObxX7s)](https://www.markaustria.com)
 
 # Hi, I'm Mark Joshua Austria! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
