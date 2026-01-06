@@ -1,4 +1,4 @@
-[![Mark Joshua Austria](https://markaustria,com/cover.jpg)](https://www.markaustria.com)
+[![Mark Joshua Austria](https://markaustria.com/cover.jpg)](https://www.markaustria.com)
 
 # Hi, I'm Mark Joshua Austria! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
